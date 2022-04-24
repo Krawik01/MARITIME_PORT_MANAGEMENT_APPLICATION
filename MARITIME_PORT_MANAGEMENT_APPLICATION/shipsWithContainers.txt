@@ -1,0 +1,8 @@
+ {name: bob, homePort: Sopot, startingLocation: Hamburg, finishLocation: Antwerp, id: 1}
+
+ {name: exa, homePort: sdad, startingLocation: asdasd, finishLocation: asdasd, id: 2}
+
+ {name: sea eye, homePort: Hel, startingLocation: Alegracias, finishLocation: Rotterdam, id: 3}
+basicCont{sender='Maciej', security='none', certificates='2', type='Basic', content='2', tare=312, netWeight=2, grossWeight=2, id=29, placeId=3}
+basicCont{sender='Marek', security='none', certificates='AQAP 2110:2016', type='Heavy', content='car parts', tare=312, netWeight=190, grossWeight=83, id=23, placeId=3}
+

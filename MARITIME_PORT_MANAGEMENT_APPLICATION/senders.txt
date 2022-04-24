@@ -1,0 +1,5 @@
+Michal|Tulej|983541275831|Wiejska 3, Goleniow
+Maciej|Bonkowski|01280506118|kwiatowa 2, Gdansk
+Krystain|Leszczynski|97312331235|Powstancow 4, Gdynia
+Marek|Towarek|82583517632|Lokietka 4a, Sopot
+dasd|dasda|0319371268|dasdasd

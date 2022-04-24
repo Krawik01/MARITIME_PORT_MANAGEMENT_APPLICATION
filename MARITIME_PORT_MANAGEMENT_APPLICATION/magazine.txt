@@ -1,0 +1,2 @@
+Explosive Container {sender='Krystain', security='none', certificates='3', type='Explosive', content='3', tare=312, netWeight=3, grossWeight=3, id=3000, durability=3}
+Toxic Liquid Container {sender='Maciej', security='none', certificates='2', type='ToxicLiquid', content='2', tare=312, netWeight=2, grossWeight=2, id=2000, tightness=2}

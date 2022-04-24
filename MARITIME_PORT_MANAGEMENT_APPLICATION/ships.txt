@@ -1,0 +1,3 @@
+bob|Sopot|Hamburg|Antwerp|20000
+exa|sdad|asdasd|asdasd|100
+sea eye|Hel|Alegracias|Rotterdam|250000
