@@ -1,5 +1,2 @@
 # MARITIME_PORT_MANAGEMENT_APPLICATION
-A console application for port management with container ships. 
-In this application we are able to manage the creation and delivery of new containers.
-All data is saved to a file and the stock is checked at all times.
-What is important is readable for the user (without serialization). 
+A console application to manage a port with container ships. In this application we are able to manage the creation and delivery of new containers. It is possible to create ships, load them, send them on a cruise and unload them to a transshipment wagon or to a warehouse. Unsafe containers are deleted after a certain period (depending on the type). All data is saved to a file and the stock is checked at all times. What is important is readable for the user (without serialization). 
